@@ -1,0 +1,5 @@
+body {
+    font-family: 'arial'; /* eligo el tipo de letra */
+    text-align: center;/* alinio el texto al centro */
+    margin-top: 60px;/*genero un margen en la parte de arriba */
+}
